@@ -17,8 +17,8 @@ REST-Rant is an app where users can review restaurants.
 | GET | * | 404 page (matches any route not defined above) |
 
 # Data that we'll be storing for places
--Name(string)
--City(string)
--State(string)
--Cusisine(string)
--A picture(string)
+- Name(string)
+- City(string)
+- State(string)
+- Cusisine(string)
+- A picture(string)
