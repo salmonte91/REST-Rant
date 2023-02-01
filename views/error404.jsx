@@ -7,7 +7,7 @@ function error404() {
           <main>
               <h1>404: PAGE NOT FOUND</h1>
               <div>
-                <img src="/images/404-image.jpg" alt="404 Error" />
+                <img src="/images/404-image.jpg" alt="404 Error" width="750" height="750" />
                 <div>
                 Photo by <a href="https://unsplash.com/@woodies11?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Romson Preechawit</a> on <a href="https://unsplash.com/photos/Vy2cHqm0mCs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
                 </div>
